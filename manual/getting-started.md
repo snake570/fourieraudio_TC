@@ -6,11 +6,11 @@ import ReactPlayer from 'react-player'
 import SplashScreen from '@site/static/img/transformclient/transform.client-connection-screen.png'
 import SplashScreen2 from '@site/static/img/transformclient/transform.client-connection-screen-2.png'
 
-# Getting Started
+# 快速入門
 
-So you've just got your hands on a **transform**.engine - congratulations!!
+看起來您已經拿到了 **transform**.engine，恭喜您！！
 
-Now, let's get you up and running.
+現在，讓我們開始吧。
 
 :::info
 
