@@ -12,11 +12,9 @@ import SplashScreen2 from '@site/static/img/transformclient/transform.client-con
 
 現在，讓我們開始吧。
 
-:::info
+本說明書縮短了很多說明上的冗長步驟，目的是盡量讓您快速入門，如需要更多關於 transform.engine 的詳細資訊，請繼續深入研究我們的使用說明書。
 
-This page will hopefully get you up and running as soon as possible; we've kept it lean on purpose. For more detailed information regarding all things **transform**.engine, please take a deep dive into our manual, which you can find in the sidebar on the left.
-
-:::
+```
 
 ## Step 1: Unpack the cardboard box
 
