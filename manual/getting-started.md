@@ -11,11 +11,11 @@ import SplashScreen2 from '@site/static/img/transformclient/transform.client-con
 看起來您已經拿到了 **transform**.engine，恭喜您！！
 
 現在，讓我們開始吧。
-
+<pre>
+<code><b>資訊</b>
 本說明書縮短了很多說明上的冗長步驟，目的是盡量讓您快速入門，如需要更多關於 transform.engine 的詳細資訊，請繼續深入研究我們的使用說明書。
-
-```
-
+</code>
+</pre>
 ## Step 1: Unpack the cardboard box
 
 The fun bit! Carefully unpack your **transform**.engine from the box. In the box, you will find:
